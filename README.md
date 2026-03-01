@@ -11,7 +11,7 @@ The exact format of the output is described in sample runs below.
 The program must check whether input data are well-formated, or not. If the input contains ill-formatted data (not integers), the program must detect it, display error message and terminate. The error message is to be displayed on the standard output. The format of the error message is shown in the sample runs below.
 
 Example runs of the program:
-
+<pre>
 Point A:
 1 2
 Point B:
@@ -69,3 +69,4 @@ Point A:
 Point B:
 5 xyz
 Invalid input.
+</pre>
