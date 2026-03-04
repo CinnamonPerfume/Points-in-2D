@@ -1,3 +1,5 @@
+Written: 30/10/2022
+
 Program is given coordinates of three points in a 2D plane. The program reads the coordinates and decides whether these points share a common line, or not. Your task is to develop such a program in C/C++.
 
 The program is given coordinates of three points in the standard input. Each coordinate has the form X Y, where X and Y are decimal numbers.
